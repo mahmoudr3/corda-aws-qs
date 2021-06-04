@@ -1,1 +1,1 @@
-# corda-aws-qs
+# Corda AWS Quick Start Template
